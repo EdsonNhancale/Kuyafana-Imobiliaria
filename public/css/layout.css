@@ -148,9 +148,10 @@ header .scrolldown a:hover { color: #11ABB0; }
 ul#nav {
    min-height: 48px;
    width: auto;
+   margin: 10px;
 
    /* center align the menu */
-   text-align: center;
+   text-align: left;
 }
 ul#nav li {
    position: relative;
